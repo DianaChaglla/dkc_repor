@@ -4,4 +4,8 @@
 #Inicio
 1+10
 
+#Resta
 1-5
+
+#Multiplicacion
+5*15
